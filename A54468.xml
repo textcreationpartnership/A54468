@@ -1,0 +1,191 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Persecution for conscience condemned by the light of nature. Law of God. Evidence of our own principles.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54468</idno>
+            <idno type="STC">Wing P1659</idno>
+            <idno type="STC">ESTC R221445</idno>
+            <idno type="EEBO-CITATION">99832751</idno>
+            <idno type="PROQUEST">99832751</idno>
+            <idno type="VID">37225</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A54468)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37225)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2150:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Persecution for conscience condemned by the light of nature. Law of God. Evidence of our own principles.</title>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Langley Curtis, at Sir Edmund-bury Godfrey's-Head near Fleet-bridge,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCLXXXIII. [1683]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The words "Light ... principles" are connected on title page by a left bracket.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dissenters, Religious --  Early works to 1800.</term>
+               <term>Freedom of religion --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:37225:1" rendition="simple:additions"/>
+            <p>PERSECUTION FOR CONSCIENCE CONDEMNED, By the
+<list>
+                  <item>
+                     <hi>Light of Nature.</hi>
+                  </item>
+                  <item>
+                     <hi>Law of God.</hi>
+                  </item>
+                  <item>
+                     <hi>Evidence of our own Principles.</hi>
+                  </item>
+               </list>
+            </p>
+            <q>
+               <bibl>Jam. <hi>2.12.</hi>
+               </bibl>
+               <p>So ſpeak you, and ſo do, as they that are judged by the Law of Liberty, for they ſhall be judged without Mercy, that have ſhewed no Mercy.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Langley Curtis, at</hi> Sir <hi>Edmund-bury Godfrey</hi>'s-Head near <hi>Fleet-bridge.</hi> MDCLXXXIII.</p>
+            <pb facs="tcp:37225:2" rendition="simple:additions"/>
+            <pb facs="tcp:37225:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="part">
+            <pb facs="tcp:37225:3"/>
+            <pb n="3" facs="tcp:37225:3"/>
+            <head>PERSECUTION FOR CONSCIENCE, &amp;c.</head>
+            <p>HAving met lately with a Book Entituled <hi>(Compulſion of Conſcience Condemned)</hi> ſo much ſtuffed with Digreſ<g ref="char:EOLhyphen"/>ſions, which gives an Umbrage to the Scope of the Matter, and renders it tedious to the Reader, mo<g ref="char:EOLhyphen"/>ved me to ſet down theſe ſentiments in ſhort, for the better Proof of the argument upon ſo material a Subject, not wrong<g ref="char:EOLhyphen"/>ing the Original, nor reflecting upon any particular perſwaſi<g ref="char:EOLhyphen"/>on, but for the the general good of all, Which is as follow<g ref="char:EOLhyphen"/>eth.</p>
+            <p>Since we have ſo happily ſhaken of that intollerable Yoke of Popiſh Infallibility (which neither we nor our forefathers were able to bear) it is become to us not only Tyrannical, but Abſurd, to compel others to a way, that our ſelves confeſs, may poſſibly be erroneous.</p>
+            <p>If any opinion be probably true, perſecution in that caſe is certainly unlawful, becauſe otherwiſe both ſides, for both are probable, if one be, might juſtifiably perſecute one another, to the utter deſtruction of all Society.</p>
+            <p>We ſee one Parliament repeals thoſe Articles of Faith, which a former Enacted, that form of Worſhip which the Laws had introduced in after times was generally exploded, and ſince that a Reformation Sealed with ſo ſolemn a Covenant, and car<g ref="char:EOLhyphen"/>ried on with ſo furious a zeal, was ſoon diſcovered to better lights to be merely human, and therefore deſervedly laid aſide, how prepoſterous is it then to conſtrain a ſoul not only to for<g ref="char:EOLhyphen"/>ſake his conſcience, which may be truth, but drive him contra<g ref="char:EOLhyphen"/>ry to his own heart, to a way that may be errour.</p>
+            <p>Since the Word of God is the ſole Rule of Faith, and no hu<g ref="char:EOLhyphen"/>man Authority ſo highly impowred, as to bind up our aſſents to whatſoever Interpretation it ſhall pleaſe to propoſe: It clear<g ref="char:EOLhyphen"/>ly
+<pb n="4" facs="tcp:37225:4"/>follows, that as all the Children of God have equal Intereſt in the Teſtament of their Father; ſo no one amongſt them has any right to impoſe or force upon the Judgment of his Brother, one holds Baptiſm of Children to be neceſſary; another eſteems it unlawful; a third denys both theſe Opinions, admitting well that it may, but not that it muſt be done: They confer Texts, look into Original Tongues, pray inceſſantly to God, and profeſs ſolemnly the ſincerity of their intention; yet after all their dilligences and Devotions, ſtedfaſtly remain in their former perſwaſion; truly for my part he that ſhould adviſe Perſecution in ſuch a Caſe (unleſs his Fire brought Light too with it to demonſtrate the Truth) would ſcarce ſatisfie my ſuſ<g ref="char:EOLhyphen"/>pition, that his Coals were fetcht from the Infernal Pit.</p>
+            <p>If we reflect upon the Difficulties that encounter us in the way to truth, <hi>for ſtrait is the Gate, and narrow is the Path,</hi> and withal conſider the ſhortneſs of our ſight, for here we ſee but in part, and underſtand but in part: There will appear more reaſon to endeavour the mutual Aſſiſtance and ſupport, than ma<g ref="char:EOLhyphen"/>licious ruine and deſtruction one of another.</p>
+            <p>However ſince all have neither equal depth of Natural Judg<g ref="char:EOLhyphen"/>ment, nor the ſame meaſure of ſupernatural Illumination, but the Spirit bloweth how and where it pleaſeth, we ought not to attempt ſo high a preſumption, as to deſpiſe or perſecute our Brother for his innocent and blameleſs miſtakes, leſt we be found to fight againſt God, who is the free Diſpoſer of his Gifts; we know <hi>the way of man is not in himſelf, Jer.</hi> 10.23. but <hi>his ſteps are ruled by the Lord, Prov.</hi> 20.24. Therefore certainly did we bear a due reſpect to God, we would be content to wait his Leiſure, who have ingaged himſelf by his Apoſtle, <hi>Phil.</hi> 3.15. <hi>If any man be otherwiſe minded, God ſhall in time reveal even this unto him;</hi> Let us therefore entertain ſuch an one, who pro<g ref="char:EOLhyphen"/>ceeds in the ſimplicity of his heart with Milk, till he grow ſtron<g ref="char:EOLhyphen"/>ger to digeſt ſtrong Meat.</p>
+            <p>All Compulſion upon the Conſcience returns us flatly to our old Slavery under the <hi>Prelates,</hi> nay more to the implicite Faith of the <hi>Papiſts,</hi> with this only difference, that we are worſe than either, becauſe our Conſciences accuſe us of doing that which we condemn in others; for whatſoever I am convinced of, proceeds from as great a Tyranny as the High Commiſſion and is as blind an Aſſent, as can be matched in the groſſeſt Po<g ref="char:EOLhyphen"/>pery,
+<pb n="5" facs="tcp:37225:4"/>and dare we think that doing the ſame things we judge in others, we ſhall eſcape the Judgment of God, <hi>Rom.</hi> 2.3.</p>
+            <p>Force is puniſhment and conſequently not juſt, unleſs the of<g ref="char:EOLhyphen"/>fence be voluntary; but he that believes according to the Evi<g ref="char:EOLhyphen"/>dence of his own reaſon, is neceſſitated to that belief, and to compell him againſt it, were to drive him to renounce the moſt eſſential part of Man, his Reaſon? Why ſhould we be comman<g ref="char:EOLhyphen"/>ded to try the Spirits, 1 <hi>John</hi> 4.1. <hi>To prove all Things,</hi> 1 <hi>Theſſ.</hi> 5.21. If there be not a Faculty in the Soul to judge for her ſelf, why are we enjoyned to <hi>hold faſt that which we find to be beſt,</hi> if af<g ref="char:EOLhyphen"/>ter our moſt ſerious and deliberate Election we ſhall be whipt out of our <hi>Conſcience</hi> by penalties; to what purpoſe do we preach poor Souls into juſt ſo much Liberty of Scripture as may beget their Tortures, and not permit them to reſt, where they find ſatisfaction either prohibite to ſearch at all, or leave us ſenſible of ſome benefit by teaching to believe what appears untrue, ſeems to me impoſſible, to profeſs what we believe untrue, I am ſure is damnable?</p>
+            <p>As it is certain, whoſoever ſwerves from the Dictate of his Conſcience commits a grievous Sin, <hi>Rom.</hi> 14. ſo without queſtion they that endeavour by force or artifice to draw any Man to pro<g ref="char:EOLhyphen"/>feſs or act contrary to what his Soul believes are as deeply guil<g ref="char:EOLhyphen"/>ty of the ſame crime: <hi>When you wound the weak Conſciences of your Brethren you ſin againſt Chriſt,</hi> 1 Cor. 8.12. how dangerouſ<g ref="char:EOLhyphen"/>ly then do they expoſe themſelves to the juſt Indignation of God who by Oaths, Impriſonments, Forfeitures, <hi>&amp;c.</hi> both drive o<g ref="char:EOLhyphen"/>thers and fall themſelves into eternal perdition; how deſperate<g ref="char:EOLhyphen"/>ly do they attempt to extinguiſh the Light of Nature, which indiſpenſably obliges all men to deal with others, as they would be dealt with themſelves, a Light placed by God in clear and candid Souls to ſhine and guide them, but in the black ones to condemn and burn them: I ſhall cloſe this Diſcourſe with the Advice of the Apoſtle, <hi>Rom.</hi> 14.13. <hi>Let us therefore uſe our judgment rather in this, that no man put a ſtumbling block before his Brother.</hi>
+            </p>
+         </div>
+         <div n="2" type="part">
+            <pb n="6" facs="tcp:37225:5"/>
+            <head>In this my ſecond part <hi>I</hi> will ſet down unanſwerable Texts of Scripture againſt the ill practice of Coercency in Re<g ref="char:EOLhyphen"/>ligion.</head>
+            <p>Nor are theſe ſo excellent and important Truths built only upon the firm Foundation of ſolid Reaſon, but alſo upon the In<g ref="char:EOLhyphen"/>fallible Authority of evident Scripture, 2 <hi>Tim.</hi> 2.24. The ſervant of the Lord muſt not ſtrive, but be gentle unto all men, apt to teach forbearing, in Meekneſs inſtructing thoſe that are contrary min<g ref="char:EOLhyphen"/>ded, if God peradventure will give them repentance, to the acknowledging of the Truth, that they may convert themſelves out of the ſnare of the Devil, who are taken <hi>Captive</hi> by him at his Will: And another Apoſtle forbidding us to condemn one another, ſaith <hi>Jam.</hi> 4.12. <hi>There is one Lawgiver, who is able to ſave and to deſtroy, who art thou that judgeſt another Servant, to his own Maſter he ſtandeth or falleth, yea he ſhall be holden up; for God is able to make him ſtand, one Man eſteemeth one day above another, another eſteemeth every day alike;</hi> Let every man be fully perſwa<g ref="char:EOLhyphen"/>ded in his own mind, haſt thou Faith, have it to thy felf before God, happy is he that condemneth not himſelf in that which he alloweth, that is, whoſe <hi>Conſcience</hi> inwardly accuſeth not his out<g ref="char:EOLhyphen"/>ward Profeſſion: The ſame moſt zealous of the Goſpel returns ſo condeſcending and moderate an Anſwer to a <hi>Caſe</hi> of a far har<g ref="char:EOLhyphen"/>der ſound than we undertake to maintain, that it ſufficiently proves, he took his gentle Pen from the ſoft wing of the Dove, 1 <hi>Cor.</hi> 7.12. If any Brother hath a Wife that believeth not, and ſhe be pleaſed to dwell with him, let him not put her away, and the Woman that hath a Husband that believeth not, and he be pleaſed to dwell with her, let her not leave him, but if the unbe<g ref="char:EOLhyphen"/>lieving depart, let him depart, a Brother or a Siſter is not in Bondage in ſuch <hi>Caſes,</hi> but God hath called us to peace, for what knoweſt thou O Wife, whether thou ſhalt ſave thy Husband, and what knoweſt thou O man, whether thou ſhalt ſave thy Wife; as God hath diſtributed to every Man, as the Lord hath called every one ſo let him walk, and ſo Ordain I in all <hi>Churches:</hi>
+               <pb n="7" facs="tcp:37225:5"/>What can be ſaid more efficaciouſly to oblige <hi>Christians</hi> in cha<g ref="char:EOLhyphen"/>rity and meekneſs to forbear one another, than ſo expreſs an In<g ref="char:EOLhyphen"/>junction of ſo great an Apoſtle, to live peaceably even with an Infidel, and again, 2 <hi>Cor.</hi> 1.24. he denys that even the Apoſtles themſelves have any Soveraignty over the <hi>Conſcience,</hi> but only <hi>Commiſſions</hi> to aſſiſt the <hi>Conſcientious,</hi> not that we have (ſays he to the <hi>Corinthians</hi>) Dominion over your Faith, but are helpers of your Joy, therein exactly obſerving the Orders which <hi>Chriſt</hi> gave to his Apoſtles, <hi>Go and Teach,</hi> not <hi>Compel, and if any one receive you not ſhake off the Duſt of your Feet,</hi> not <hi>trample upon them,</hi> as duſt under feet, <hi>Mat.</hi> 10 14. conſtant to which Do<g ref="char:EOLhyphen"/>ctrine of Meekneſs our Saviour thus inſtructs his Diſciples, <hi>Mat.</hi> 23.9. <hi>Be not called Rabbi</hi> (that is Maſters in ſpiritual matters) <hi>for one is your Father, even Chriſt, and all you are Brethren.</hi> To this belongs the patient forbearing the Tares, and letting them grow together with the Wheat, till the time of Harveſt, as alſo that admirable preſident of mildneſs towards the <hi>Samari<g ref="char:EOLhyphen"/>tans,</hi> who refuſed to receive even Chriſt himſelf, whereupon the Diſciples <hi>James</hi> and <hi>John</hi> would immediately command fire from Heaven to conſume them, as in the days of <hi>Elias,</hi> but our merciful Lord rebuked their zeal, with this ſweet and tender reply, you know not what manner of Spirit you are of, <hi>The ſon of man is not come to deſtroy mens lives, but to ſave them, Luke</hi> 9.54. which one example abundantly ſatisfies all objecti<g ref="char:EOLhyphen"/>ons drawn from the practice of <hi>Elias, Jehu</hi> the Sons of <hi>Levi,</hi> &amp;c. in the old Teſtament for us, they had an expreſs com<g ref="char:EOLhyphen"/>mand from God to warrant their zeal, we have an expreſs War<g ref="char:EOLhyphen"/>rant from Chriſt to command us Meekneſs. If any one ſhall ſhuffle in a ſuſpition, that this moderate temper was meant on<g ref="char:EOLhyphen"/>ly for the times of perſecution, when the Chriſtians had no temporal power, let him firſt confeſs that thoſe were the beſt and pureſt times, and then ſhew a Warrant dormant under our Saviours hand (that is in his Goſpel) to commiſſionate his Di<g ref="char:EOLhyphen"/>ſciples, as ſoon as they ſhould get the ſword into their hands, to cut the Throats of all diſſobeyers and I ſubmit, but if they can cite no ſuch Authority, let them freely acknowledge that <hi>Perſecution for Conſcience</hi> is an unwarrantable Tyranny over the juſt Priviledges and Liberty of a Chriſtian.</p>
+            <p>
+               <pb n="8" facs="tcp:37225:6"/>
+As for the truth and power of Religion, it being a thing intrinſecal between God and the Soul, and the matters of Faith in the Goſpel being ſuch as no natural light doth reach un<g ref="char:EOLhyphen"/>to, we conceive there is no human power of Coertion there<g ref="char:EOLhyphen"/>unto, nor to reſtrain men from believing what God ſuffers their judgments to be perſwaded off, for it is the Office of him who is the Lord of Conſcience, to lighten and change mens minds, when and how he pleaſeth, <hi>Phil.</hi> 3 15. <hi>Let us there<g ref="char:EOLhyphen"/>fore as many as be perfect be thus minded, and if in any thing you be otherwiſe minded, God ſhall reveal this unto you,</hi> by inciting another by like forcible means, to Will and to Act againſt his conſcience, and much more by Impriſonment, Mults, Ter<g ref="char:EOLhyphen"/>rours or Threats, <hi>Rom.</hi> 14.15, 20, 21. <hi>For this is to make him deſtroy his Soul, Verſe</hi> 20, 23. We may not diſturb the peace of mens Conſciences, or make their hearts ſad with our inve<g ref="char:EOLhyphen"/>ctives, or Menacing them cauſeleſly with terrours, from the Lord. <hi>Ezek.</hi> 13.22. <hi>Becauſe with lies ye have made the hearts of the righteous ſad, whom I have not made ſad,</hi> &amp;c.</p>
+            <p>We would not have you aſſure to your ſelves, or attribute unto others, a power to Lord it over mens Faith and Conſcien<g ref="char:EOLhyphen"/>ces, eſpecially when men walk obediently towards thoſe that are in places of Rule and Authority, and live a Godly, Sober, Honeſt peaceable and unblameable life. If men will do wick<g ref="char:EOLhyphen"/>edly and defend a liberty in Chriſt ſo to do, let them be liable to the ſword of Juſtice for ſo doing, but far be it from us, ſo much as by example, to draw a weak Brother, a Saint, a Fel<g ref="char:EOLhyphen"/>low Servant of the Lord, whom no Man can accuſe, but for his differing judgments, to do any thing againſt conſcience, whereby he ſhould condemn himſelf, as the Apoſtle ſpeaks, <hi>Rom.</hi> 14. How much more ought Governours to be tender and abſtemious in the uſe of violent and coercive Means, to preci<g ref="char:EOLhyphen"/>pitate men into ſuch perilous and deſtructive courſes, all au<g ref="char:EOLhyphen"/>thority is given of God for mens welfare, and much more for the Preſervation, and not the Deſtruction of the ſoul.</p>
+            <p>
+               <pb n="9" facs="tcp:37225:6"/>
+By theſe conſiderations (I conceive) is clearly demonſtrat<g ref="char:EOLhyphen"/>ed, the freedom of a Chriſtian ſoul in her commerſe for Heaven, which ſince the merciful bounty of God, holds forth indiffe<g ref="char:EOLhyphen"/>rently to all, the cruel covetouſneſs of Man, ought not to ob<g ref="char:EOLhyphen"/>ſtruct to any, ſurely it is the worſt of Monopolies to lay impo<g ref="char:EOLhyphen"/>ſitions upon the way of Paradiſe; Chriſt by his death removed the Angel, that chaſed from thence our firſt Parents, and ſhall any of us take the flaming Sword into our hands, to ſheath it in the bowels of a poor <hi>Pilgrim,</hi> who with a ſincere heart tra<g ref="char:EOLhyphen"/>vels to the ſame Country, only becauſe he goes not in our Com<g ref="char:EOLhyphen"/>pany: <hi>In my Fathers houſe are many Manſions</hi> (ſays Chriſt) why may there not be as many paths that lead to them, if they that have no Law ſhall be judged without the Law, certainly they that unblameably miſtake the Law ſhall be tryed according to thoſe Expoſitions which appeared unto them, to be the mean<g ref="char:EOLhyphen"/>ing of the Lawgiver (for the Senſe is the Law, and not the Let<g ref="char:EOLhyphen"/>ter) eſpecially having ſo gracious a Judge, who hath already de<g ref="char:EOLhyphen"/>clared by his Apoſtle, 2 <hi>Cor.</hi> 8.12. and if there be firſt a willing mind, it is accepted according to what a Man hath, and not according to what a Man hath not; wherefore let us not by a ſuddain violence break into pieces the Conſciences of our Bre<g ref="char:EOLhyphen"/>thren, but mildly thaw them into a cordial and ingenuous Uni<g ref="char:EOLhyphen"/>ty, that righteouſneſs and peace may flow together in the ſame Channel, and not as broken Ice daſh one againſt another, let us patiently expect, till the Lord be pleaſed to take off the Vail from their hearts that are otherwiſe minded, and not by for<g ref="char:EOLhyphen"/>cing their Judgments add to their Vail of Ignorance a worſer fort of Hypocriſie, it being now a common experiment that ge<g ref="char:EOLhyphen"/>nerally, the Iſſue of compulſionary and forced Conformity cloſes in this, to make ſome few counterfeit Proteſtants, and a great many real Atheiſts, whence it is clearly concluded, that the only true means of winning Souls to God, is the Goſpell-like way of meekneſs and perſwaſion, and indeed it may wor<g ref="char:EOLhyphen"/>thily be eſteemed the prime Miracle of Chriſtianity, that a per<g ref="char:EOLhyphen"/>ſon ſo humble as our Saviour appeared, without the aſſiſtance of Kings and Princes, without the enchanting words of Mans Wiſdom, without the affrighting threats of Fines, Impriſon<g ref="char:EOLhyphen"/>ments and Deaths (though all theſe were abſolutely ſubject to his pleaſure) ſhould conquer Powers and Principalities, ſhould outcharm the Magick of Human Eloquence, and by the admi<g ref="char:EOLhyphen"/>rable
+<pb n="10" facs="tcp:37225:7"/>Succeſs of his Mildneſs, condemn all thoſe politick Religi<g ref="char:EOLhyphen"/>ons, that confeſs their own crazineſs by uſing cruelty to ſupport them, whereas to reduce the diſobedient only with the Spirit of Gentleneſs and Admonition, or at moſt deſertion, argues indeed a Divinity in the Author and a purity in the Ordinance, and here we may fitly apply the words of our Lord, <hi>John</hi> 14.2. <hi>If it had been otherwiſe, I would have told you,</hi> if the means of preſerving Religion had been by watering it with the blood of refuſers to embrace it, rather than of thoſe that ſought to propagate it, I would have told you either by my example (all the world be<g ref="char:EOLhyphen"/>ing in the power of my Deity) or by my Doctrine, all juſtifia<g ref="char:EOLhyphen"/>ble proceedings concerning the Government of my flock, being derived from the Warrant of my Word; thus we ſee our graci<g ref="char:EOLhyphen"/>ous Lawmaker, faithful and conſtant to his own Principles, the Son of man came not to deſtroy mens Lives, but to ſave them: Thus we ſee our own Duty to learn of him, for he is meek and humble of heart, let us not therefore judge one another any more, but uſe our Judgment rather in this, that no man put an occaſion to fall, or a ſtumbling block before his Brother, <hi>Rom.</hi> 14.13. Let us always remember the Advertiſement which the beloved Diſciple gives to all his Fellow Servants of the Lord Chriſt, <hi>John</hi> 13 16. <hi>The Servant is not greater than his Lord, if you know theſe things happy are you, if you do them.</hi>
+            </p>
+            <p>Theſe few unpoliſht Lines, which I here preſent for Incou<g ref="char:EOLhyphen"/>ragement of Tenderneſs, I deſire may not be ſtretcht to draw in a wild and an extravagant Licentiouſneſs, ſince they aim no farther than to hold up a Liberty to ſuch only as profeſs Chriſt, and walk before the Lord in the Integrity of their heart, who by the following marks are eaſily diſcernible from all thoſe that for their blaſphemies in Doctrines, and Debauchery in manners are worthily excluded from the benefit of this <hi>Indulgence.</hi>
+            </p>
+            <p>Suppoſing firſt as confeſt by all underſtanding men, that Ten<g ref="char:EOLhyphen"/>derneſs of Conſcience is not the ſame thing with Truth of Judgment (elſe there could be but one only kind, becauſe Truth is but one) but it ſignifies a proceeding <hi>bonafide,</hi> without ſiniſter reſpects or diſſimulation, ſeeking before all things to know God, and fearing above all things to offend him.</p>
+            <p>And ſecondly ſince in our <hi>Inquiry</hi> to whom belongs ſo honoura<g ref="char:EOLhyphen"/>ble a Title, we cannot pierce into the inward thoughts of men, we muſt give Sentence as they appear to us, which rule in Ca<g ref="char:EOLhyphen"/>ſes
+<pb n="11" facs="tcp:37225:7"/>of this quality is in it ſelf ſufficiently certain, however it is the only means God hath allowed for nature to guide her reſolu<g ref="char:EOLhyphen"/>tions in the judging of others.</p>
+            <p>The Signs then of tender Conſciences are theſe; if they lead regular, vertuous and peaceable Lives, if their Opinions be not juſtly accuſable of ſelf-intereſt or Licentiouſneſs, but rather re<g ref="char:EOLhyphen"/>quire of them a prudent and religious ſeverity againſt the <hi>Incli<g ref="char:EOLhyphen"/>nations</hi> of corrupted Nature, if their Judgments be ſteddy, not fanned to a new Senſe with every breath of wind, if they con<g ref="char:EOLhyphen"/>tinue in the ſame perſwaſions at their death, which is no time for diſſembling, at leaſt we ought to judge ſo, if they not only die in their Faith, but for it, not only give away good part of their Eſtates charitably, but ſuffer all to be taken away patiently, and all this for Chriſts ſake, or (to ſpeak more cloſely) for that which they believe to be his Will and Commandment, no higher Te<g ref="char:EOLhyphen"/>ſtimony of a true and real Sincerity can poſſibly be given, or eaſi<g ref="char:EOLhyphen"/>ly imagined, and whoſoever doubts after ſuch Evidence (chiefly if many concur in the ſame way) deſerves to be condemned, as the moſt paſſionate, malitious and uncharitable perſon in the World, for though one man may value his fancy above his Life or eſtate, yet it is very near an abſolute Impoſſibility, that ma<g ref="char:EOLhyphen"/>ny (eſpecially if they be diſcreet and rational in other Negoti<g ref="char:EOLhyphen"/>ons) ſhould agree to undo themſelves for a meer conceit, did they not ſeriouſly believe it more imports them to keep their Faith, than loſe their Fortunes.</p>
+            <p>By theſe Rules we may eaſily conclude the admiſſion of thoſe pious and religious Perſons, who were impriſoned and perſecu<g ref="char:EOLhyphen"/>ted by the late <hi>Prelates,</hi> who into the number of tender Conſci<g ref="char:EOLhyphen"/>ences, as alſo thoſe precious Servants of the Lord, who by a voluntary baniſhment left their Friends and Country, to place the Liberty of the Goſpel amongſt the ſavage Heathens of <hi>A<g ref="char:EOLhyphen"/>merica.</hi>
+            </p>
+            <p>How are we degenerated from the primitive Believers, who would rather have given their own <hi>Lives,</hi> to perſwade their E<g ref="char:EOLhyphen"/>nemies to Piety, than ſought to take away the <hi>Lives</hi> of their Brethren, to force them to Hypocriſie.</p>
+            <p>Which have been occaſioned by infringing the <hi>Liberty</hi> of <hi>Con<g ref="char:EOLhyphen"/>ſcience,</hi> by violent means to alter <hi>Conſcientious</hi> mens Judgments, and their preſent perſwaſion, which kind of ſeverity I fear may at laſt find the Truth of Gods Threatning, if you bite and de<g ref="char:EOLhyphen"/>vour
+<pb n="12" facs="tcp:37225:8"/>one another take heed you be not conſumed one of ano<g ref="char:EOLhyphen"/>ther, <hi>Gal.</hi> 5.15. Wherefore it ſhall be my daily Prayer to our great and good God, that he would gratiouſly inſpire the Governors of the Earth, his Servants, who now ſit at the helm to prevent thoſe heavy Judgments upon themſelves, and ſeriouſly conſider<g ref="char:EOLhyphen"/>ing that both their Allegiance to reaſon, their Duty to God, their Ingagement to their own Principles, call ſo loudly upon them, that they would fulfil now our Joy, and compleat the good Work, by putting the tender <hi>Conſcioned</hi> and peaceable minded people of this Nation into a <hi>Condition</hi> of perfect ſecurity for matters of <hi>Religion,</hi> which cannot be effected without a general Act of <hi>Conſcience-Indempnity,</hi> for all that profeſs the Goſpel of <hi>Chriſt.</hi>
+            </p>
+            <p>For incouragement of which Holy deſign, out of the bow<g ref="char:EOLhyphen"/>els of Mercy, I have endeavoured in this ſhort Diſcourſe to de<g ref="char:EOLhyphen"/>monſtrate, That Perſecution of <hi>Conſcience</hi> amongſt <hi>Chriſtians,</hi> is clearly repugnant to the <hi>Light of Nature,</hi> the <hi>Law of God,</hi> and the <hi>Evidence of our own Principles.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:37225:8"/>
+         </div>
+      </body>
+   </text>
+</TEI>
